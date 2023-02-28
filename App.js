@@ -19,7 +19,7 @@ const App = () => {
     //   </Stack.Navigator>
     // </NavigationContainer>
     <>
-    <ApiData/>
+    {/* <ApiData/> */}
     </>
 
   )
